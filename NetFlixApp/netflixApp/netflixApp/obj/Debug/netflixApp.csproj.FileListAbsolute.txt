@@ -1,0 +1,30 @@
+c:\users\kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\bin\Debug\netflixApp.exe.config
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\bin\Debug\netflixApp.exe
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\bin\Debug\netflixApp.pdb
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\obj\Debug\netflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\obj\Debug\netflixApp.Form1.resources
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\obj\Debug\netflixApp.Properties.Resources.resources
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\obj\Debug\netflixApp.csproj.GenerateResource.Cache
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\obj\Debug\netflixApp.exe
+C:\Users\Kanishka\documents\visual studio 2013\Projects\netflixApp\netflixApp\obj\Debug\netflixApp.pdb
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\bin\Debug\netflixApp.exe.config
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.exe
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.pdb
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\bin\Debug\netflixApp.exe
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\bin\Debug\netflixApp.pdb
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.Form1.resources
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.Properties.Resources.resources
+C:\Users\Kanishk\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.csproj.GenerateResource.Cache
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\bin\Debug\netflixApp.exe.config
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.exe
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.pdb
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\bin\Debug\netflixApp.exe
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\bin\Debug\netflixApp.pdb
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.Form1.resources
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.Properties.Resources.resources
+C:\Users\Kanishka\Desktop\netflixApp\netflixApp\obj\Debug\netflixApp.csproj.GenerateResource.Cache
+C:\Users\Kanishka\Documents\MS-Spring'14\CS341\NetFlixApp\netflixApp\netflixApp\bin\Debug\netflixApp.exe.config
+C:\Users\Kanishka\Documents\MS-Spring'14\CS341\NetFlixApp\netflixApp\netflixApp\obj\Debug\netflixApp.exe
+C:\Users\Kanishka\Documents\MS-Spring'14\CS341\NetFlixApp\netflixApp\netflixApp\obj\Debug\netflixApp.pdb
