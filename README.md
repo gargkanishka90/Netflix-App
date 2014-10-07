@@ -1,4 +1,5 @@
 Netflix-App
 ===========
 
-This is a 3-tier architecture based application made using C#.
+Designed and Implemented a 3-Tier database application to query Netflix database using Windows 
+Form Application (Visual C#.NET), and ADO.NET database objects.
